@@ -21,6 +21,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Filmy - Internetowa.TV[/B]</name> 
+<thumbnail>https://ia801909.us.archive.org/13/items/internetowa-tv/InternetowaTV.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Internetowa_TV.m3u</externallink> 
+<fanart>https://ia801909.us.archive.org/13/items/internetowa-tv/InternetowaTV.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Filmy - Patrz.PL[/B]</name> 
 <thumbnail>https://patrz.pl/static/img/logo.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Patrz_PL.m3u</externallink> 
