@@ -2,18 +2,28 @@
 
 <channels> 
 <channel> 
+<name>[B]Filmy - GoVod.TV[/B]</name>
+<link>http://ignorame<link>
+<thumbnail>https://ia601408.us.archive.org/35/items/go-vod-tv/GoVodTV.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/GoVod_TV.m3u</externallink> 
+<fanart>https://www.ponapisach.pl/wp-content/uploads/2020/05/zajawki-govod-1.jpg</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Filmy - Hejo.TV[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://ia801504.us.archive.org/19/items/hejo-tv/HejoTV.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Hejo_TV.m3u</externallink> 
-<fanart></fanart> 
+<fanart>https://ia801504.us.archive.org/19/items/hejo-tv/HejoTV.png</fanart> 
 <info></info> 
 </channel>
 
 <channels> 
 <channel> 
 <name>[B]Filmy - Zalukaj.VIP[/B]</name> 
-<thumbnail></thumbnail> 
+<thumbnail>https://archive.org/download/zalukajvip/zalukajvip.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Zalukaj_VIP.m3u</externallink> 
-<fanart></fanart> 
+<fanart>https://archive.org/download/zalukajvip/zalukajvip.png</fanart> 
 <info></info> 
 </channel>
