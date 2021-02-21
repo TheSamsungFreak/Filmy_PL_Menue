@@ -1,0 +1,19 @@
+<layouttype>thumbnail</layouttype>
+
+<channels> 
+<channel> 
+<name>[B]Filmy - Hejo.TV[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Hejo_TV.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
+<name>[B]Filmy - Zalukaj.VIP[/B]</name> 
+<thumbnail></thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Zalukaj_VIP.m3u</externallink> 
+<fanart></fanart> 
+<info></info> 
+</channel>
