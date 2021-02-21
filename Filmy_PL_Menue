@@ -21,6 +21,15 @@
 
 <channels> 
 <channel> 
+<name>[B]Filmy - Patrz.PL[/B]</name> 
+<thumbnail>https://patrz.pl/static/img/logo.png</thumbnail> 
+<externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Patrz_PL.m3u</externallink> 
+<fanart>https://patrz.pl/static/img/logo.png</fanart> 
+<info></info> 
+</channel>
+
+<channels> 
+<channel> 
 <name>[B]Filmy - Zalukaj.VIP[/B]</name> 
 <thumbnail>https://archive.org/download/zalukajvip/zalukajvip.png</thumbnail> 
 <externallink>https://raw.githubusercontent.com/TheSamsungFreak/Filmy_PL_M3U/main/Zalukaj_VIP.m3u</externallink> 
